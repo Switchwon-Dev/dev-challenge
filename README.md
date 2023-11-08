@@ -18,7 +18,7 @@
 그 뒤, 아래의 요구사항을 잘 읽고 개발을 하신 후에 저희에게 코드를 제출하신다면 아래를 읽고 따라해 주시기를 바랍니다.
 # 결과물 제출 방법
 - github setting -> Collaborators -> Manage access 에서 Add people 을 누르시고 `switchwon-tech` 또는 `tech@switchwon.com` 을 추가해 주시면 제출됩니다.
-- 또한 결과물을 앱에서 구현한 영상 파일이나 링크를  `tech@switchwon.com` 로 송부해주세요. 송부 시 Git ID 를 메일에 함께 적어주세요.
+- 또한 결과물을 앱에서 구현한 영상 파일이나 링크를  `tech@switchwon.com` 로 송부해주세요. 송부 시 Git Repository 를 메일에 함께 적어주세요.
 
 그럼 즐거운 시간 되시길 바라겠습니다. :)
 
